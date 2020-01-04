@@ -1,0 +1,11 @@
+C:\Users\i3\Workspace\LearnMongo\LearnMongo\bin\Debug\netcoreapp2.2\LearnMongo.deps.json
+C:\Users\i3\Workspace\LearnMongo\LearnMongo\bin\Debug\netcoreapp2.2\LearnMongo.runtimeconfig.json
+C:\Users\i3\Workspace\LearnMongo\LearnMongo\bin\Debug\netcoreapp2.2\LearnMongo.runtimeconfig.dev.json
+C:\Users\i3\Workspace\LearnMongo\LearnMongo\bin\Debug\netcoreapp2.2\LearnMongo.dll
+C:\Users\i3\Workspace\LearnMongo\LearnMongo\obj\Debug\netcoreapp2.2\LearnMongo.csprojAssemblyReference.cache
+C:\Users\i3\Workspace\LearnMongo\LearnMongo\obj\Debug\netcoreapp2.2\LearnMongo.csproj.CoreCompileInputs.cache
+C:\Users\i3\Workspace\LearnMongo\LearnMongo\obj\Debug\netcoreapp2.2\LearnMongo.AssemblyInfoInputs.cache
+C:\Users\i3\Workspace\LearnMongo\LearnMongo\obj\Debug\netcoreapp2.2\LearnMongo.AssemblyInfo.cs
+C:\Users\i3\Workspace\LearnMongo\LearnMongo\bin\Debug\netcoreapp2.2\LearnMongo.pdb
+C:\Users\i3\Workspace\LearnMongo\LearnMongo\obj\Debug\netcoreapp2.2\LearnMongo.dll
+C:\Users\i3\Workspace\LearnMongo\LearnMongo\obj\Debug\netcoreapp2.2\LearnMongo.pdb
